@@ -1,4 +1,4 @@
-package com.star.controller.exception;
+package com.star.exception;
 
 public class BusinessException extends RuntimeException{
     private Integer code;

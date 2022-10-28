@@ -1,4 +1,4 @@
-package com.star.controller.exception;
+package com.star.exception;
 
 public class SystemException extends RuntimeException{
     private Integer code;

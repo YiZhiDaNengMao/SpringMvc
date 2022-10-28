@@ -1,7 +1,7 @@
 package com.star.controller;
 
-import com.star.controller.exception.BusinessException;
-import com.star.controller.exception.SystemException;
+import com.star.exception.BusinessException;
+import com.star.exception.SystemException;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 
